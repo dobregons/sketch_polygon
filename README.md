@@ -1,2 +1,2 @@
-# sketch_polygon
-Sketch Polygon using Fabric.js
+# Sketch Polygon
+Sketch Polygon using Jquery and Fabric.js
